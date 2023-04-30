@@ -2,7 +2,7 @@
 This is the write-up for the challenge "Falgs" challenge in PicoCTF
 
 #The challenge
-Flags [(https://play.picoctf.org/practice?category=2&page=3)]
+Flags [https://play.picoctf.org/practice?category=2&page=3]
 ![](images/screenshot1.jpg)
 
 ##Hints
